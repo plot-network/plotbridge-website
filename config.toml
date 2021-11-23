@@ -61,20 +61,14 @@ DefaultContentLanguage           = "en"                    # Default language fo
 
 
 # If you don't want to use the default menu, you can define one by yourself
-# [[menu.main]]
-#     name    = "Home"
-#     url     = "/"
-#     weight  = 0
-# [[menu.main]]
-#     name    = "Blog"
-#     url     = "/blog/"
-#     weight  = 1
-
-# We only use tag as a taxonomies
-# You can add more by yourself
-[taxonomies]
-  tag = "tags"
-  series = "series"
+[[menu.main]]
+    name    = "Home"
+    url     = "/"
+    weight  = 0
+[[menu.main]]
+    name    = "App"
+    url     = "https://app.plotbridge.net/"
+    weight  = 1
 
 [markup]
   defaultMarkdownHandler = "goldmark"

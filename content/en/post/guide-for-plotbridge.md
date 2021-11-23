@@ -3,7 +3,7 @@ title: "Guide For Bridge"
 date: 2021-11-23
 draft: false
 tags: ["guide"]
-categories: ["guide", "index"]
+categories: ["guide"]
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
