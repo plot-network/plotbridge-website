@@ -1,8 +1,8 @@
 # This is a Hugo configuration.
 # reference: https://gohugo.io/getting-started/configuration/ 
 
-baseURL = "https://plotbridge-project.onrender.com"
-title = "plotbridge"
+baseURL = "https://plotbridge.io"
+title = "plotbridge project"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -20,7 +20,7 @@ defaultContentLanguage = "en"           # Default language to use
   languageCode = "en"
 
 [author]                  # essential                     # 必需
-  name = "plotnetwork"
+  name = "<a href='https://plotnetwork.ltd' target='_blank'>PlotNetwork Ltd</a>"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -33,23 +33,13 @@ defaultContentLanguage = "en"           # Default language to use
   identifier = "home"
   url = "/about"
 [[menu.main]]
-  name = "Archives"
-  weight = 20
-  identifier = "archives"
-  url = "/post/"
-[[menu.main]]
   name = "Blog"
   weight = 30
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
-  name = "Categories"
-  weight = 40
-  identifier = "categories"
-  url = "/categories/"
-[[menu.main]]
-  name = "app.plotbridge.net"
-  weight = 50
+  name = "App"
+  weight = 30
   url = "https://app.plotbridge.net"
 
 
@@ -59,9 +49,9 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Plotbridge"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "PlotBridge"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Chives","Chia", "plot", "bridge","BSC","token","XCC","XCH","plotbridge"]
-  description = "This is a progress web for plotbridge."
+  description = "PlotBridge - bridge between PoST network and BSC"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "2021-11-22"
@@ -82,5 +72,5 @@ defaultContentLanguage = "en"           # Default language to use
 
   [params.social]                                         # 社交链接
     a-email = "mailto:whb@plotbridge.com"
+    d-new_window = "https://discord.gg/xHC9fBfeVW"
     c-twitter = "https://twitter.com/plot_bridge"
-    g-github = "https://github.com/plot-network/plotbridge-website"
