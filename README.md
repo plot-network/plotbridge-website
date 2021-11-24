@@ -18,6 +18,16 @@ hugo serve
 
 
 
+#### To update code from repository
+
+```bash
+git submodule foreach --recursive git pull origin master
+```
+
+
+
+
+
 #### To Modify Content Text
 
 All content are stored in __content__ directory.
