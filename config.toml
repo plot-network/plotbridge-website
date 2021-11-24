@@ -98,24 +98,33 @@ author = "authors"
 [[params.social]]
 name = "Twitter"
 icon = "fa fa-2x fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+weight = 1
+url = "https://twitter.com/plot_bridge"
+target = "_blank"
 
 [[params.social]]
 name = "Discord"
 icon = "fa fa-2x fa-discord"
+weight = 2
+url = "https://discord.com/invite/xHC9fBfeVW"
+target = "_blank"
+
 
 [[params.social]]
 name = "Telegram"
 icon = "fa fa-2x fa-telegram"
-weight = 4
-url = "https://t.me//"
+weight = 3
+url = "https://t.me/plotbridge"
+target = "_blank"
+
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-2x fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+weight = 4
+url = "https://medium.com/@plotbridge"
+target = "_blank"
+
 
 [languages.en]
 languageName = ":uk:"
@@ -126,19 +135,27 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Guide"
-weight = 1
-url = "guide/"
-
-[[languages.en.menu.main]]
 name = "App"
 weight = 2
 url = "https://app.plotbridge.net/"
+target = "_blank"
+
+[[languages.en.menu.main]]
+name = "Guide"
+weight = 3
+url = "guide/"
+
+[[languages.en.menu.main]]
+name = "FAQ"
+weight = 4
+url = "faq/"
+
 
 [[languages.en.menu.main]]
 name = "Contact"
-weight = 3
+weight = 5
 url = "contact/"
+
 
 [languages.zh-cn]
 languageName = ":cn:"
@@ -155,15 +172,22 @@ url = "about/"
 
 [[languages.zh-cn.menu.main]]
 name = "指南"
-weight = 2
+weight = 3
 url = "guide/"
 
 [[languages.zh-cn.menu.main]]
 name = "App"
-weight = 3
+weight = 2
 url = "https://app.plotbridge.net/"
 
 [[languages.zh-cn.menu.main]]
-name = "联系我们"
+name = "常见问题"
 weight = 4
+url = "faq/"
+
+[[languages.zh-cn.menu.main]]
+name = "联系我们"
+weight = 5
 url = "contact/"
+
+
