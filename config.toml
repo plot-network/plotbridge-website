@@ -17,6 +17,7 @@ description = "PlotBridge - a service from PlotNetwork"
 keywords = "BSC,plotnetwork,plotbridge,defi,XCH,XCC,Chia,Chives,PXCC,PXCH"
 info = ["DeFi gateway for Plot farmers", "Connects Chia and fork coins to BSC"]
 avatarURL = "images/big-logo.svg"
+homeBackground = "images/n90.jpg"
 #gravatar = "plotnetwork"
 dateFormat = "January 2, 2021"
 since = 2021
