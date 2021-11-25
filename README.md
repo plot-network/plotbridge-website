@@ -4,7 +4,8 @@
 
 #### Requirement
 
-* Tested with Hugo 0.89.4
+* Tested with Hugo 0.89.4 (Extended Version)
+  - Download can be found [here](https://gohugo.io/getting-started/installing/)
 
 
 
@@ -21,7 +22,7 @@ hugo serve
 #### To update code from repository
 
 ```bash
-git submodule foreach --recursive git pull origin master
+git pull --recurse-submodules
 ```
 
 
