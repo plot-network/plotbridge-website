@@ -150,10 +150,14 @@ name = "FAQ"
 weight = 4
 url = "faq/"
 
+[[languages.en.menu.main]]
+name = "Tokens"
+weight = 5
+url = "tokens/"
 
 [[languages.en.menu.main]]
 name = "Contact"
-weight = 5
+weight = 6
 url = "contact/"
 
 
@@ -171,14 +175,14 @@ weight = 1
 url = "about/"
 
 [[languages.zh-cn.menu.main]]
-name = "指南"
-weight = 3
-url = "guide/"
-
-[[languages.zh-cn.menu.main]]
 name = "App"
 weight = 2
 url = "https://app.plotbridge.net/"
+
+[[languages.zh-cn.menu.main]]
+name = "指南"
+weight = 3
+url = "guide/"
 
 [[languages.zh-cn.menu.main]]
 name = "常见问题"
@@ -186,8 +190,13 @@ weight = 4
 url = "faq/"
 
 [[languages.zh-cn.menu.main]]
-name = "联系我们"
+name = "代币"
 weight = 5
+url = "tokens/"
+
+[[languages.zh-cn.menu.main]]
+name = "联系我们"
+weight = 6
 url = "contact/"
 
 
