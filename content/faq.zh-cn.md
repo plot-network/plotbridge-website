@@ -1,12 +1,8 @@
 +++
 title = "常见问题"
-description = "PlotBridge"
-date = "2021-11-23"
-aliases = ["about-us", "contact"]
-author = "Hugo Authors"
-image = '../images/big-logo.svg'
+aliases = ["faq"]
 +++
 
-![图片](../images/big-logo.svg)
-
-## 等待中...
+## 使用
+#### Q: 需要多长时间才能收到我的PXCH/PXCC代币？
+A: 从XCH/XCC成功发送到存款地址开始计时，通常10分钟内即可在绑定地址收到您的PXCH/PXCC代币。若超过15分钟仍未收到您的代币，可在Discord或电报官方群联系团队成员。

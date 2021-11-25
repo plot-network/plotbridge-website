@@ -1,13 +1,7 @@
 +++
 title = "FAQ"
-description = "PlotBridge"
-date = "2021-11-23"
-aliases = ["about-us", "contact"]
-author = "Hugo Authors"
-image = '../images/big-logo.svg'
+aliases = ["faq"]
 +++
-
-![image](../images/big-logo.svg)
 
 ## Usage
 #### Q: How long will it take to receive my PXCC/PXCH token?
