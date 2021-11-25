@@ -14,6 +14,7 @@ enableEmoji = true
 [params]
 author = "Plot Network Ltd"
 authorUrl = "https://plotnetwork.ltd"
+title = "plotbridge"
 description = "PlotBridge - a service from PlotNetwork"
 keywords = "BSC,plotnetwork,plotbridge,defi,XCH,XCC,Chia,Chives,PXCC,PXCH"
 info = ["DeFi gateway for Plot farmers", "Connects Chia and fork coins to BSC"]
@@ -70,6 +71,11 @@ customJS = []
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 # [params.googleTagManager]
 # id = "gid"
+
+[params.launchButton]
+url = "https://app.plotbridge.net"
+caption = "Launch App"
+target = "_blank"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
@@ -166,9 +172,15 @@ url = "contact/"
 languageName = ":cn:"
 
 [languages.zh-cn.params]
-info = "连接空间矿工和DeFi"
+info = ["连接空间矿工和DeFi","连接奇亚"]
 description = "PlotBridge 项目信息"
 keywords = "plotbridge,桥,币安,智能链,奇亚,韭菜"
+title = "Plot桥"
+
+[languagues.zh-cn.params.launchButton]
+url = "https://app.plotbridge.net"
+caption = "进入APP"
+target = "_blank"
 
 [[languages.zh-cn.menu.main]]
 name = "关于"

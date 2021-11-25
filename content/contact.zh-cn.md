@@ -1,5 +1,5 @@
 +++
-title = "Contato"
+title = "联系我们"
 slug = "contact"
 +++
 
