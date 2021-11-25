@@ -1,6 +1,6 @@
 baseURL = "https://www.plotbridge.io"
 title = "PlotBridge"
-theme = "coder"
+theme = "plotweb"
 languageCode = "en"
 defaultContentLanguage = "en"
 paginate = 20
