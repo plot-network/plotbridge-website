@@ -11,6 +11,7 @@ enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
 
+
 [params]
 author = "Plot Network Ltd"
 authorUrl = "https://plotnetwork.ltd"
@@ -21,6 +22,10 @@ info = ["DeFi gateway for Plot farmers", "Connects Chia and fork coins to BSC"]
 avatarURL = "images/big-logo.svg"
 homeBackground = "images/bg.jpg"
 dateFormat = "Oct 2, 2021"
+launchButton_url = "https://app.plotbridge.net"
+launchButton_caption = "Launch App"
+launchButton_target = "_blank"
+
 footNoteTitle = "Disclaimer"
 footNote1 = "Plot Network, Ltd is not affiliated with Chia Network, Inc."
 footNote2 = "Chia™ may be a trademark or registered trademark of Chia Network, Inc."
@@ -73,11 +78,6 @@ customJS = []
 # If you want to use Google Tag Manager(https://analytics.google.com/) for analytics, add this section
 # [params.googleTagManager]
 # id = "gid"
-
-[params.launchButton]
-url = "https://app.plotbridge.net"
-caption = "Launch App"
-target = "_blank"
 
 # If you want to implement a Content-Security-Policy, add this section
 [params.csp]
@@ -182,11 +182,10 @@ footNoteTitle = "免责声明"
 footNote1 = "Plot Network, Ltd与Chia Network, Inc.没有关系."
 footNote2 = "Chia™是Chia Network, Inc.的商标。"
 footNote3 = "所有第三方商标是其各自所有者的财产。"
+launchButton_url = "https://app.plotbridge.net"
+launchButton_caption = "进入APP"
+launchButton_target = "_blank"
 
-[languagues.zh-cn.params.launchButton]
-url = "https://app.plotbridge.net"
-caption = "进入APP"
-target = "_blank"
 
 [[languages.zh-cn.menu.main]]
 name = "关于"
