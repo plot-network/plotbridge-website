@@ -1,4 +1,4 @@
-baseURL = "https://www.plotnetwork.ltd"
+baseURL = "https://plotbridge.onrender.com/"
 title = "Plot Network"
 theme = "plotweb"
 languageCode = "en"
