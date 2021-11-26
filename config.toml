@@ -1,5 +1,5 @@
-baseURL = "https://www.plotbridge.io"
-title = "PlotBridge"
+baseURL = "https://www.plotnetwork.ltd"
+title = "Plot Network"
 theme = "plotweb"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -16,11 +16,13 @@ author = "Plot Network Ltd"
 authorUrl = "https://plotnetwork.ltd"
 description = "PlotBridge - a service from PlotNetwork"
 keywords = "BSC,plotnetwork,plotbridge,defi,XCH,XCC,Chia,Chives,PXCC,PXCH"
-info = ["DeFi gateway for Plot farmers", "Connects Chia and fork coins to BSC"]
+info = ["A moving forward web company", "Dedicated to developing our own projects"]
 avatarURL = "images/big-logo.svg"
-homeBackground = "images/n90.jpg"
-dateFormat = "January 2, 2021"
-footNote = "Plot Network, Ltd is not affiliated with Chia Network, Inc. Chia™ may be a trademark or registered trademark of Chia Network, Inc. All third party trademarks are the property of their respective owners."
+homeBackground = "images/bg00.jpg"
+dateFormat = "Oct 2, 2021"
+footNote1 = "Plot Network, Ltd is not affiliated with Chia Network, Inc. Chia™ may be a trademark or registered trademark of Chia Network, Inc."
+footNote2 = "All right reserved"
+footNote3 = "All third party trademarks are the property of their respective owners."
 since = 2021
 # Git Commit in Footer, uncomment the line below to enable it
 # commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -33,7 +35,7 @@ rtl = false
 # "light" (light background, dark foreground) (default)
 colorScheme = "dark"
 # Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
@@ -134,30 +136,23 @@ name = "About"
 weight = 1
 url = "about/"
 
+
 [[languages.en.menu.main]]
-name = "App"
+name = "Projects"
 weight = 2
-url = "https://app.plotbridge.net/"
+url = "projects/"
 target = "_blank"
 
+
 [[languages.en.menu.main]]
-name = "Guide"
+name = "Blog"
 weight = 3
-url = "guide/"
+url = "/posts/"
 
-[[languages.en.menu.main]]
-name = "FAQ"
-weight = 4
-url = "faq/"
-
-[[languages.en.menu.main]]
-name = "Tokens"
-weight = 5
-url = "tokens/"
 
 [[languages.en.menu.main]]
 name = "Contact"
-weight = 6
+weight = 4
 url = "contact/"
 
 
@@ -165,9 +160,12 @@ url = "contact/"
 languageName = ":cn:"
 
 [languages.zh-cn.params]
-info = "连接空间矿工和DeFi"
-description = "PlotBridge 项目信息"
+info = ["一个正在前进的网络公司","致力于开发属于我们自己的项目"]
+description = "Plot Network.ltd 公司网站介绍"
 keywords = "plotbridge,桥,币安,智能链,奇亚,韭菜"
+footNote1 = "Plot Network, Ltd与Chia Network, Inc.没有关系.Chia™是Chia Network, Inc.的商标。"
+footNote2 = "保留所有权利."
+footNote3 = "所有第三方商标是其各自所有者的财产。"
 
 [[languages.zh-cn.menu.main]]
 name = "关于"
@@ -175,28 +173,20 @@ weight = 1
 url = "about/"
 
 [[languages.zh-cn.menu.main]]
-name = "App"
+name = "项目"
 weight = 2
-url = "https://app.plotbridge.net/"
+url = "projects/"
+
 
 [[languages.zh-cn.menu.main]]
-name = "指南"
+name = "博客"
 weight = 3
-url = "guide/"
+url = "/posts/"
 
-[[languages.zh-cn.menu.main]]
-name = "常见问题"
-weight = 4
-url = "faq/"
-
-[[languages.zh-cn.menu.main]]
-name = "代币"
-weight = 5
-url = "tokens/"
 
 [[languages.zh-cn.menu.main]]
 name = "联系我们"
-weight = 6
+weight = 4
 url = "contact/"
 
 

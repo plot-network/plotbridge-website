@@ -6,7 +6,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
-PlotBridge 是 Plot 区块链网络和 Binance 智能链（BSC）之间的网关。
+![image](/images/img1.png)
 
-像 Chia(XCH)、Chives(XCC)这样的硬币可以转换为 BSC 代币。
-当然，它也可以转换回来。
+我们专注于可持续的区块链开发和服务。
