@@ -22,7 +22,9 @@ avatarURL = "images/big-logo.svg"
 homeBackground = "images/bg.jpg"
 dateFormat = "Oct 2, 2021"
 footNoteTitle = "Disclaimer"
-footNote = "Plot Network, Ltd is not affiliated with Chia Network, Inc. Chia™ may be a trademark or registered trademark of Chia Network, Inc. All third party trademarks are the property of their respective owners."
+footNote1 = "Plot Network, Ltd is not affiliated with Chia Network, Inc."
+footNote2 = "Chia™ may be a trademark or registered trademark of Chia Network, Inc."
+footNote3 = "All third party trademarks are the property of their respective owners."
 since = 2021
 # Git Commit in Footer, uncomment the line below to enable it
 # commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -177,8 +179,9 @@ description = "PlotBridge 项目信息"
 keywords = "plotbridge,桥,币安,智能链,奇亚,韭菜"
 title = "Plot桥"
 footNoteTitle = "免责声明"
-footNote = "Plot Network, Ltd与Chia Network, Inc.没有关系。Chia™是Chia Network, Inc.的商标。所有第三方商标是其各自所有者的财产。"
-
+footNote1 = "Plot Network, Ltd与Chia Network, Inc.没有关系."
+footNote2 = "Chia™是Chia Network, Inc.的商标。"
+footNote3 = "所有第三方商标是其各自所有者的财产。"
 
 [languagues.zh-cn.params.launchButton]
 url = "https://app.plotbridge.net"
