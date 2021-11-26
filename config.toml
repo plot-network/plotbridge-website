@@ -20,7 +20,7 @@ keywords = "BSC,plotnetwork,plotbridge,defi,XCH,XCC,Chia,Chives,PXCC,PXCH"
 info = ["DeFi gateway for Plot farmers", "Connects Chia and fork coins to BSC"]
 avatarURL = "images/big-logo.svg"
 homeBackground = "images/bg.jpg"
-dateFormat = "January 2, 2021"
+dateFormat = "Oct 2, 2021"
 footNoteTitle = "Disclaimer"
 footNote = "Plot Network, Ltd is not affiliated with Chia Network, Inc. Chia™ may be a trademark or registered trademark of Chia Network, Inc. All third party trademarks are the property of their respective owners."
 since = 2021
@@ -35,7 +35,7 @@ rtl = false
 # "light" (light background, dark foreground) (default)
 colorScheme = "dark"
 # Hide the toggle button, along with the associated vertical divider
-hideColorSchemeToggle = false
+hideColorSchemeToggle = true
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
@@ -176,6 +176,9 @@ info = ["连接空间矿工和DeFi","连接奇亚"]
 description = "PlotBridge 项目信息"
 keywords = "plotbridge,桥,币安,智能链,奇亚,韭菜"
 title = "Plot桥"
+footNoteTitle = "免责声明"
+footNote = "Plot Network, Ltd与Chia Network, Inc.没有关系。Chia™是Chia Network, Inc.的商标。所有第三方商标是其各自所有者的财产。"
+
 
 [languagues.zh-cn.params.launchButton]
 url = "https://app.plotbridge.net"
