@@ -265,12 +265,12 @@ enableEmoji = true
           paginate = 6
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
-        Twitter = "ttt"
-        Discord = "xxxx"
-        Telegram = "ttt"
-        Medium = "mmm"
+        Twitter = "https://twitter.com/plot_bridge"
+        Discord = "https://discord.com/invite/xHC9fBfeVW"
+        Telegram = "https://t.me/PlotBridge"
+        Medium = "https://medium.com/@plotbridge"
         Email = "xxxx@xxxx.com"
-        RSS = true
+        RSS = false
 
 [params]
   # LoveIt theme version
