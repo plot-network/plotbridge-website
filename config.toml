@@ -150,6 +150,7 @@ enableEmoji = true
       # Social config in home page
       [languages.en.params.social]
         Twitter = "xxxx"
+        Discord = "xxxx"
         Telegram = "xxxx"
         Medium = ""
         Email = "xxxx@xxxx.com"
@@ -266,6 +267,7 @@ enableEmoji = true
       # 主页的社交信息设置
       [languages.zh-cn.params.social]
         Twitter = "ttt"
+        Discord = "xxxx"
         Telegram = "ttt"
         Medium = "mmm"
         Email = "xxxx@xxxx.com"
