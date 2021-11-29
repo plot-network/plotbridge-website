@@ -4,7 +4,6 @@ description = "代币和交易对信息"
 +++
 ## 运行机制
 PXCH/PXCC等是在币安智能链（BSC）上发行的代币，符合BEP20标准，初始发行量为0。
-
 以下内容将以PXCH代币为例进行介绍，PlotBridge简称为PB。
 
 #### 地址绑定
