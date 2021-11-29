@@ -1,11 +1,15 @@
 +++
 title = "关于"
-description = "PlotBridge,一个服务于空间挖矿与DeFi的网站"
-date = "2021-11-23"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+aliases = ["about-us", "about-plotbridge"]
 +++
 
-![image](/images/img1.png)
+PlotBridge(PB)是连通时空证明类区块链网络（即常说的空间挖矿，如奇亚，韭菜）和成熟的智能区块链（如币安智能链）之间的桥梁。
 
-我们专注于可持续的区块链开发和服务。
+可使用PB将原生币如奇亚(XCH)，韭菜(XCC)转换成对应的代币如PXCH,PXCC。当然，也可以将代币转换回对应的原生币。
+
+当前支持的原生币种:
+- 奇亚(XCH)
+- 韭菜(XCC)
+
+当前支持的智能链:
+- 币安智能链(BSC)

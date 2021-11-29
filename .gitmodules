@@ -1,3 +1,6 @@
 [submodule "themes/plotweb"]
 	path = themes/plotweb
 	url = https://github.com/linqiulinqiu/hugo-plotweb
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/linqiulinqiu/LoveIt.git

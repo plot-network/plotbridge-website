@@ -1,10 +1,15 @@
 +++
 title = "About"
-description = "PlotNetwork"
-date = "2021-11-23"
-aliases = ["about-us", "contact"]
+aliases = ["about-us"]
+image = '../images/big-logo.svg'
 +++
 
-![image](/images/img1.png)
+PlotBridge is a gateway/bridge between various plot-based blockchain networks (PoST networks like Chia, Chives, etc.) and mature smart blockchain networks (Binance Smart Chain, etc.)
+It can be used to wrap native coins like Chia(XCH), Chives(XCC) into corresponding tokens like PXCH, PXCC, and, course, unwrap tokens back into corresponding native coins.
 
-We focus in sustainable blockchain development and service.
+Currently supported coins:
+- Chia(XCH)
+- Chives(XCC)
+
+Currently supported smart chains:
+- Binance Smart Chain (BSC)

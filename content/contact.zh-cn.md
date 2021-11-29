@@ -3,7 +3,7 @@ title = "联系我们"
 slug = "contact"
 +++
 
-如果你有某些疑问,请记得联系我们.
+还有疑问？ 请联系我们:
 
 - Discord: https://discord.com/invite/xHC9fBfeVW
 - 电报: https://t.me/PlotBridge
