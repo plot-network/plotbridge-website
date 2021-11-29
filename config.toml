@@ -497,7 +497,7 @@ enableEmoji = true
     # Comment config
     # 评论系统设置
     [params.page.comment]
-      enable = true
+      enable = false
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
       [params.page.comment.disqus]
@@ -596,7 +596,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = "/images/big-logo.svg"
 
   # TypeIt config
   # TypeIt 配置
@@ -622,16 +622,6 @@ enableEmoji = true
     yandex = ""
     pinterest = ""
     baidu = ""
-
-  # Site SEO config
-  # 网站 SEO 配置
-  [params.seo]
-    # image URL
-    # 图片 URL
-    image = "/images/Apple-Devices-Preview.png"
-    # thumbnail URL
-    # 缩略图 URL
-    thumbnailUrl = "/images/screenshot.png"
 
   # Analytics config
   # 网站分析配置
@@ -723,9 +713,9 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
+  name = "Plot Network Ltd"
   email = ""
-  link = ""
+  link = "https://plotnetwork.ltd"
 
 # Sitemap config
 # 网站地图配置
