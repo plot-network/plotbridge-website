@@ -148,12 +148,12 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        Twitter = "xxxx"
-        Discord = "xxxx"
-        Telegram = "xxxx"
-        Medium = ""
+        Twitter = "https://twitter.com/plot_bridge"
+        Discord = "https://discord.com/invite/xHC9fBfeVW"
+        Telegram = "https://t.me/PlotBridge"
+        Medium = "https://medium.com/@plotbridge"
         Email = "xxxx@xxxx.com"
-        RSS = true
+        RSS = false
 
   [languages.zh-cn]
     weight = 2
@@ -327,7 +327,7 @@ enableEmoji = true
     custom = ''
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
     # 是否显示版权信息
     copyright = true
@@ -336,13 +336,13 @@ enableEmoji = true
     author = true
     # site creation time
     # 网站创立年份
-    since = 2019
+    since = 2021
     # ICP info only in China (HTML format is supported)
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # license info (HTML format is supported)
     # 许可协议信息 (支持 HTML 格式)
-    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    #license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
   # Section (all posts) page config
   # Section (所有文章) 页面配置
@@ -496,15 +496,15 @@ enableEmoji = true
       Mix = false
     # Comment config
     # 评论系统设置
-    [params.page.comment]
-      enable = true
+    #[params.page.comment]
+     # enable = true
       # Disqus comment config (https://disqus.com/)
       # Disqus 评论系统设置 (https://disqus.com/)
-      [params.page.comment.disqus]
-        enable = false
+      #[params.page.comment.disqus]
+       # enable = false
         # Disqus shortname to use Disqus in posts
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = ""
+        #shortname = ""
       # Gitalk comment config (https://github.com/gitalk/gitalk)
       # Gitalk 评论系统设置 (https://github.com/gitalk/gitalk)
       [params.page.comment.gitalk]
@@ -595,7 +595,7 @@ enableEmoji = true
       # Publisher info
       # 出版者信息
       [params.page.seo.publisher]
-        name = "xxxx"
+        name = "Plot Network"
         logoUrl = "/images/avatar.png"
 
   # TypeIt config
@@ -663,7 +663,7 @@ enableEmoji = true
 
   # CDN config for third-party library files
   # 第三方库文件的 CDN 设置
-  [params.cdn]
+  #[params.cdn]
     # CDN data file name, disabled by default
     # ("jsdelivr.yml")
     # located in "themes/LoveIt/assets/data/cdn/" directory
@@ -674,7 +674,7 @@ enableEmoji = true
     # 位于 "themes/LoveIt/assets/data/cdn/" 目录
     # 可以在你的项目下相同路径存放你自己的数据文件:
     # "assets/data/cdn/"
-    data = "jsdelivr.yml"
+   # data = "jsdelivr.yml"
 
   # Compatibility config
   # 兼容性设置
@@ -723,9 +723,9 @@ enableEmoji = true
 # Author config
 # 作者配置
 [author]
-  name = "xxxx"
+  name = "Plot Network"
   email = ""
-  link = ""
+  link = "https://www.plotNetwork.ltd"
 
 # Sitemap config
 # 网站地图配置
