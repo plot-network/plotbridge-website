@@ -82,7 +82,7 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "Connect Plot Farmers to DeFi test 2"
+      description = "Connect Plot Farmers to DeFi"
       # site keywords
       keywords = ["Plot", "DeFi", "bridge", "chia", "chives"]
       # App icon config
@@ -251,7 +251,7 @@ enableEmoji = true
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
-          subtitle = "连接空间矿工与DeFi test 1"
+          subtitle = "连接空间矿工与DeFi"
           # 是否为副标题显示打字机动画
           typeit = true
           # 是否显示社交账号
