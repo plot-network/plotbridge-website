@@ -52,9 +52,9 @@ App[PlotBridge App Web Server] <--> BSC([BSC Network]) <--> PB[PlotBridge App an
 
 ###### 在 Binance 智能链（BSC）中发行的所有代币:
 
-| 名称   | 标识 | 代币标识                              | 合约地址                                   | 交易对                                                                                        |
-| ------ | :--- | ------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
-| Chia   | XCH  | ![奇亚](/images/chia-logo.png)PXCH    | 0x8fCD852147d1BbA1C4f4dFf07880cCB25DD36DD7 | [PXCH/BUSD](https://pancakeswap.finance/info/pool/0xffdfb45e3d743ec10eb793fdcee3055ea82c270c) |
-| Chives | XCC  | ![韭菜](/images/chives-logo.png) PXCC | 0x24D7ec172b331c7636a5Ca604de890996e5e2028 | [PXCC/BUSD](https://pancakeswap.finance/info/pool/0x62608fa59fcd378cd71ce277a50f24df333b4633) |
+| 名称                                  | 标识 | 代币标识                              | 合约地址                                   | 交易对                                                                                        |
+| ------------------------------------- | :--- | ------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| [Chia](https://www.chia.net)          | XCH  | ![奇亚](/images/chia-logo.png)PXCH    | 0x8fCD852147d1BbA1C4f4dFf07880cCB25DD36DD7 | [PXCH/BUSD](https://pancakeswap.finance/info/pool/0xffdfb45e3d743ec10eb793fdcee3055ea82c270c) |
+| [Chives](https://www.chivescoin.org/) | XCC  | ![韭菜](/images/chives-logo.png) PXCC | 0x24D7ec172b331c7636a5Ca604de890996e5e2028 | [PXCC/BUSD](https://pancakeswap.finance/info/pool/0x62608fa59fcd378cd71ce277a50f24df333b4633) |
 
 在将来,我们会增加更多的代币,欢迎提出建议。

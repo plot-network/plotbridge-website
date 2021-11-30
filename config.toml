@@ -166,7 +166,7 @@ enableEmoji = true
     # 默认每页列表显示的文章数目
     paginate = 12
     # [UA-XXXXXXXX-X] 谷歌分析代号
-    googleAnalytics = "294948381"
+    googleAnalytics = "294975398"
     # 版权描述，仅仅用于 SEO
     copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
     # 菜单配置
@@ -285,7 +285,7 @@ enableEmoji = true
   # date format
   # 日期格式
   dateFormat = "2006-01-02"
-  homeBackground = "/images/bg.jpg"
+  homeBackground = "/images/bg22.gif"
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = ["/images/big-logo.svg"]
