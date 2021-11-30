@@ -82,7 +82,7 @@ enableEmoji = true
         weight = 6
     [languages.en.params]
       # site description
-      description = "Connect Plot Farmers to DeFi"
+      description = "Connect Plot Farmers to DeFi test 2"
       # site keywords
       keywords = ["Plot", "DeFi", "bridge", "chia", "chives"]
       # App icon config
