@@ -5,7 +5,7 @@ slug = "guide"
 
 用户指南:
 
--   [如何在币安智能链上使用 MetaMask(小狐狸钱包)](/zh-cn/guidesub/guidesubcn/)
+-   [如何在币安智能链上使用 MetaMask(小狐狸钱包)](/zh-cn/guidesub/guidesub/)
 
 -   Chives Swap，一个同时适用于 Chives(韭菜) 和 Chia 的轻钱包
 
