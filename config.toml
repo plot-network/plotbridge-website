@@ -140,7 +140,7 @@ enableEmoji = true
           # whether to show social links
           social = true
           # disclaimer (HTML format is supported)
-          disclaimer = ""
+          disclaimer = "This site is not affiliated with PancakeSwap, Chia Network, Chives Network"
         # Home page posts
         [languages.en.params.home.posts]
           enable = true
@@ -304,13 +304,14 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = ""
+      logo = "/images/big-logo.svg"
       # title name
       # 标题名称
       name = "PlotBridge"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
-      pre = "<i class='fa fa-plug fa-fw'></i>"
+      #pre = "<i class='fa fa-plug fa-fw'></i>"
+      #pre = "<img alt='logo' src='/images/big-logo.svg' />"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
