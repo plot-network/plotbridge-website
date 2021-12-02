@@ -1,7 +1,7 @@
 +++
 title = "About"
 aliases = ["about-us"]
-image = '../images/big-logo.svg'
+image = '/images/big-logo.svg'
 +++
 
 PlotBridge is a gateway/bridge between various plot-based blockchain networks (PoST networks like Chia, Chives, etc.) and mature smart blockchain networks (Binance Smart Chain, etc.)

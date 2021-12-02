@@ -24,7 +24,7 @@ When user bind deposit address, a free deposit address will be allocated, and th
 
 {{< mermaid >}}
 graph LR;
-PB(PlotBridge) --> PC[(PXCH 合约)]
+PB(PlotBridge) --> PC[(PXCH)]
 {{</mermaid>}}
 
 Withdraw address of XX are always obtained from user input. When user bind the withdraw address, the relationship between BEP20 address and the withdraw address are then stored in BSC chain.
