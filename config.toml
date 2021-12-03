@@ -148,11 +148,10 @@ enableEmoji = true
           paginate = 6
       # Social config in home page
       [languages.en.params.social]
-        Twitter = "https://twitter.com/plot_bridge"
-        Discord = "https://discord.com/invite/xHC9fBfeVW"
-        Telegram = "https://t.me/PlotBridge"
-        Medium = "https://medium.com/@plotbridge"
-        Email = "xxxx@xxxx.com"
+        Twitter = "/plot_bridge"
+        Discord = "/xHC9fBfeVW"
+        Telegram = "/PlotBridge"
+        Medium = "/@plotbridge"
         RSS = false
 
   [languages.zh-cn]
