@@ -12,10 +12,23 @@
 
 到这一步,您的钱包已准备好发送、存储和接收代币。
 
-## 配置钱包
-您可能会立即注意到我们仍在以太坊网络链。它并不适用于币安智能链 ，如果不转换到币安智能链，__可能会造成将资金发送到您实际上无法使用的地址而导致资金损失。__
+## 自动配置钱包
+您可能会立即注意到我们仍在以太坊网络链。它并不适用于币安智能链 ，如果不转换到币安智能链，__可能会造成将资金发送到您实际上无法使用的地址而导致资金损失。__  
 
-让我们来改变它，我们需要点击设置以将钱包指向币安智能链.
+您可以通过访问[__币安链区块浏览器（bscscan.com）__](https://bscscan.com/)来快速配置币安智能链，进入[__币安链区块浏览器（bscscan.com）__](https://bscscan.com/)首页后来到页面最下方右侧，您会看到一个有MetaMask图标并且写着Add BSC Network的按钮。
+
+<img src="/images/guideimg/autolink1.png" style="width:600px">
+
+点击这个按钮之后，会跳出MetaMask的添加网络页面，点击Approve,允许添加
+
+<img src="/images/guideimg/autolink2.png" style="height:500px;width:600px">  
+
+这时，你已经完成了币安智能链的配置，并且可以在币安智能链上进行交易了。
+
+## 手动配置钱包
+如果您暂时无法访问币安链区块浏览器（bscscan.com），您也可以手动来配置币安智能链。
+
+我们需要点击设置来将钱包转到币安智能链。
 
 <img src="/images/guideimg/guidespt1.png" style="width:600px">
 
