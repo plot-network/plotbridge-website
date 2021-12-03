@@ -12,14 +12,27 @@ Start by downloading MetaMask for Chrome, Brave, iOS, and Android.
 
 And voila! Your wallet is ready to send, store, and receive tokens.
 
-## Configuring the wallet
-You might notice straight away that we’re still dealing with an Ethereum wallet. At best, this won’t work with Binance Smart Chain DApps. At worst, __you could lose funds by sending them to addresses you can’t actually use.__
+## Fast configuring the wallet
+You might notice that we’re still at the Ethereum main network.This won’t work with Binance Smart Chain DApps. At worst, __you could lose funds by sending them to addresses you can’t actually use.__ 
 
-Let’s change that. We want to access Settings to point the wallet towards Binance Smart Chain nodes.
+You can quickly configure binance smart chain by visiting [__Binance Smart Chain Explorer(bscscan.com)__](https://bscscan.com/),After accessing the homepage of [__Binance Smart Chain Explorer(bscscan.com)__](https://bscscan.com/), you will see a button with MetaMask icon and "Add BSC Network" on the bottom right of the page.
+
+<img src="/images/guideimg/autolink1.png" style="width:600px">
+
+click this button, MetaMask extension will pop up, and click Approve to give permission.
+
+<img src="/images/guideimg/autolink2.png" style="height:500px;width:600px">  
+
+Now you have completed the configuration,and you are ready to use your wallet on Binance Smart Chain.
+
+## Manually configuring the wallet
+If you are temporarily unable to access Binance Smart Chain Explorer (bscscan.com), you can also manually configure the wallet.
+
+Let’s change that. We need to access Settings to point the wallet towards Binance Smart Chain nodes.
 
 <img src="/images/guideimg/guidespt1.png" style="width:600px">
 
-On the Settings page, navigate to the Networks menu.
+On the Settings page, click the Networks.
 
 <img src="/images/guideimg/guidespt2.png" style="width:600px">
 
