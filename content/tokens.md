@@ -25,7 +25,7 @@ When user bind deposit address, a free deposit address will be allocated, and th
 {{< mermaid >}}
 graph LR;
 PB(PlotBridge) --> PC[(WXCH)]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 Withdraw address of XX are always obtained from user input. When user bind the withdraw address, the relationship between BEP20 address and the withdraw address are then stored in BSC chain.
 
@@ -39,7 +39,7 @@ PB system keeps tracking the minting queue, and mint WXX tokens accordingly.
 {{< mermaid >}}
 graph LR;
 XD[XCH Deposit] --> PB(PlotBridge) --> PM[WXCH Mint]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 #### Burn
 
@@ -52,7 +52,7 @@ Please note that after withdraw address rebind, it may require some time for PB 
 {{< mermaid >}}
 graph LR;
 PBR[WXCH Burn] --> PB(PlotBridge) --> XW[XCH Withdraw]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 #### Safety Considerations
 
@@ -66,7 +66,7 @@ For better safety, we completely separate web app and PB system. The only connec
 {{< mermaid >}}
 graph LR;
 App[PlotBridge App Web Server] <--> BSC([BSC Network]) <--> PB[PlotBridge App and Node]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 ## Current Status
 

@@ -9,13 +9,13 @@ slug = "guide"
 
 -   Chives Swap，一个同时适用于 Chives(韭菜) 和 Chia 的轻钱包
 
--   如何将旧版本的 PXCC 变更为 WXCC
+-   [如何将旧版本的 PXCC 变更为 WXCC](/zh-cn/guidesub/upgradecoin/)
 
 -   如何将 XCC 转换成 BSC 链上的代币 WXCC
 
 -   如何将 WXCC 转换回 XCC
 
--   如何用 Pancakeswap 购买/出售 WXCC
+-   如何用 PlotBridge 购买/出售 WXCC
 
 -   提供流动性并获得收益
 

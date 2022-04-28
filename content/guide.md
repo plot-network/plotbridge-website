@@ -9,13 +9,13 @@ See medium for user guide:
 
 -   Chives Swap, a web wallet for both Chives and Chia
 
--   How to upgrade the older version of PXCC to WXCC
+-   [How to upgrade the older version of PXCC to WXCC](/guidesub/upgradecoin/)
 
 -   How to wrap XCC into BSC chain token WXCC
 
--   How to convert PXCC back to XCC
+-   How to convert wXCC back to XCC
 
--   How to buy/sell PXCC with Pancakeswap
+-   How to buy/sell WXCC with PlotBridge
 
 -   Provide liquidity and get profit
 

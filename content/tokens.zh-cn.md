@@ -15,7 +15,7 @@ XCH 存款地址通过 WXCH 智能合约预保存在 BSC 上。PB 系统会定�
 {{< mermaid >}}
 graph LR;
 PB(PlotBridge) --> PC[(WXCH 合约)]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 XCH 取款地址为用户 Chia 钱包的收款地址，由用户自己输入，再通过 WXCH 智能合约将其与用户的 BEP20 地址绑定，此绑定关系保存在 BSC 上。XCH 取款地址绑定后可更改。
 
@@ -26,7 +26,7 @@ XCH 取款地址为用户 Chia 钱包的收款地址，由用户自己输入，�
 {{< mermaid >}}
 graph LR;
 XD[XCH 存入] --> PB(PlotBridge) --> PM[WXCH 铸造]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 #### 销毁
 
@@ -35,7 +35,7 @@ PXCH 代币由用户在 PB 官方 App 中销毁。PB 系统监测 BSC 上信息�
 {{< mermaid >}}
 graph LR;
 PBR[WXCH 销毁] --> PB(PlotBridge) --> XW[XCH 取款]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 #### 安全性
 
@@ -46,7 +46,7 @@ WXCH 仅当 XCH 存入时按量发行，取款时 WXCH 则被销毁，以此确�
 {{< mermaid >}}
 graph LR;
 App[PlotBridge App Web Server] <--> BSC([BSC Network]) <--> PB[PlotBridge App and Node]
-{{</mermaid>}}
+{{< /mermaid >}}
 
 ## 现状
 
