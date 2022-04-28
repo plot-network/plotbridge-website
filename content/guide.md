@@ -5,16 +5,18 @@ slug = "guide"
 
 See medium for user guide:
 
-- [How to use BSC with MetaMask](/guidesub/guidesub/)
+-   [How to use BSC with MetaMask](/guidesub/guidesub/)
 
-- Chives Swap, a web wallet for both Chives and Chia
+-   Chives Swap, a web wallet for both Chives and Chia
 
-- How to wrap XCC into BSC chain token PXCC
+-   How to upgrade the older version of PXCC to WXCC
 
-- How to convert PXCC back to XCC
+-   How to wrap XCC into BSC chain token WXCC
 
-- How to buy/sell PXCC with Pancakeswap
+-   How to convert PXCC back to XCC
 
-- Provide liquidity and get profit
+-   How to buy/sell PXCC with Pancakeswap
 
-- How to obtain more Chives? A way to arbitrate with PlotBridge
+-   Provide liquidity and get profit
+
+-   How to obtain more Chives? A way to arbitrate with PlotBridge

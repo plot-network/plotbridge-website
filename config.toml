@@ -1,4 +1,4 @@
-baseURL = "https://plotbridge.onrender.com"
+baseURL = "https://plotbridge.io"
 defaultContentLanguage = "en"
 # theme
 # 主题
@@ -50,7 +50,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "App"
-        url = "https://app.plotbridge.net"
+        url = "https://app.plotbridge.io"
         title = ""
         weight = 2
       [[languages.en.menu.main]]
@@ -94,7 +94,7 @@ enableEmoji = true
         # modern SVG favicon to use in place of older style .png and .ico files
         svgFavicon = ""
         # Android browser theme color
-        themeColor = "#ffffff"
+        themeColor = "#000"
         # Safari mask icon color
         iconColor = "#5bbad5"
         # Windows v8-10 tile color
@@ -130,7 +130,7 @@ enableEmoji = true
           # Gravatar Email for preferred avatar in home page
           gravatarEmail = ""
           # URL of avatar shown in home page
-          avatarURL = "/images/big-logo.svg"
+          avatarURL = "/images/big-logo.png"
           # title shown in home page (HTML format is supported)
           title = ""
           # subtitle shown in home page
@@ -186,7 +186,7 @@ enableEmoji = true
         pre = ""
         post = ""
         name = "启动应用"
-        url = "https://app.plotbridge.net"
+        url = "https://app.plotbridge.io"
         title = ""
         weight = 2
       [[languages.zh-cn.menu.main]]
@@ -231,7 +231,7 @@ enableEmoji = true
         # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
         svgFavicon = ""
         # Android 浏览器主题色
-        themeColor = "#ffffff"
+        themeColor = "#000"
         # Safari 图标颜色
         iconColor = "#5bbad5"
         # Windows v8-10 磁贴颜色
@@ -246,7 +246,7 @@ enableEmoji = true
           # Gravatar 邮箱，用于优先在主页显示的头像
           gravatarEmail = ""
           # 主页显示头像的 URL
-          avatarURL = "/images/big-logo.svg"
+          avatarURL = "/images/big-logo.png"
           # 主页显示的网站标题 (支持 HTML 格式)
           title = ""
           # 主页显示的网站副标题
@@ -302,14 +302,14 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # LOGO 的 URL
-      logo = "/images/big-logo.svg"
+      logo = "/images/big-logo.png"
       # title name
       # 标题名称
       name = "PlotBridge"
       # you can add extra information before the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       #pre = "<i class='fa fa-plug fa-fw'></i>"
-      #pre = "<img alt='logo' src='/images/big-logo.svg' />"
+      #pre = "<img alt='logo' src='/images/big-logo.png' />"
       # you can add extra information after the name (HTML format is supported), such as icons
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
@@ -595,7 +595,7 @@ enableEmoji = true
       # 出版者信息
       [params.page.seo.publisher]
         name = "Plot Network"
-        logoUrl = "/images/big-logo.svg"
+        logoUrl = "/images/big-logo.png"
 
   # TypeIt config
   # TypeIt 配置
