@@ -7,13 +7,13 @@ See medium for user guide:
 
 -   [How to use BSC with MetaMask](/guidesub/guidesub/)
 
--   Chives Swap, a web wallet for both Chives and Chia
-
 -   [How to upgrade the older version of PXCC to WXCC](/guidesub/upgradecoin/)
 
--   How to wrap XCC into BSC chain token WXCC
+-   [How to wrap XCC into BSC chain token WXCC](/guidesub/toWXCC/)
 
--   How to convert wXCC back to XCC
+-   [How to convert wXCC back to XCC](/guidesub/toXCC/)
+
+-   [How to run MarketPlace](/guidesub/marketGuide/)
 
 -   How to buy/sell WXCC with PlotBridge
 
