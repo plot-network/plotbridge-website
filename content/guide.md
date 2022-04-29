@@ -9,11 +9,11 @@ See medium for user guide:
 
 -   [How to upgrade the older version of PXCC to WXCC](/guidesub/upgradecoin/)
 
--   [How to wrap XCC into BSC chain token WXCC](/guidesub/toWXCC/)
+-   [How to wrap XCC into BSC chain token WXCC](/guidesub/towxcc/)
 
--   [How to convert wXCC back to XCC](/guidesub/toXCC/)
+-   [How to convert wXCC back to XCC](/guidesub/toxcc/)
 
--   [How to run MarketPlace](/guidesub/marketGuide/)
+-   [How to run MarketPlace](/guidesub/marketguide/)
 
 -   How to buy/sell WXCC with PlotBridge
 
