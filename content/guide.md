@@ -14,6 +14,6 @@ See medium for user guide:
 -   [Provide liquidity and get profit](/guidesub/providelp/)
 -   [How to obtain more Chives? A way to arbitrate with PlotBridge](/guidesub/getmore/)
 
-#### We really need someone who can help us with our copywrighting, and who can get an income commensurate with the amount of work.
+#### We really need writers or artists whose can help us with our copywrighting, and whose can get an income commensurate with the amount of work.
 
 ### If you are the person who can helps, please contact us.

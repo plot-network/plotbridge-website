@@ -57,7 +57,6 @@ enableEmoji = true
         identifier = "guide"
         name = "Guide"
         url = "/guide/"
-        title = ""
         weight = 3
       [[languages.en.menu.main]]
         identifier = "faq"
@@ -66,20 +65,19 @@ enableEmoji = true
         weight = 4
       [[languages.en.menu.main]]
         identifier = "tokens"
-        pre = ""
-        post = ""
         name = "Tokens"
         url = "/tokens/"
-        title = ""
         weight = 5
       [[languages.en.menu.main]]
+        identifier = "active"
+        name = "Active"
+        url = "/active/"
+        weight = 6
+      [[languages.en.menu.main]]
         identifier = "contact"
-        pre = ""
-        post = ""
         name = "Contact"
         url = "/contact/"
-        title = ""
-        weight = 6
+        weight = 7
     [languages.en.params]
       # site description
       description = "Connect Plot Farmers to DeFi"
@@ -209,13 +207,19 @@ enableEmoji = true
         title = ""
         weight = 5
       [[languages.zh-cn.menu.main]]
+        identifier = "active"
+        name = "活动"
+        url = "/active/"
+        title = ""
+        weight = 6
+      [[languages.zh-cn.menu.main]]
         identifier = "contact"
         pre = ""
         post = ""
         name = "联系我们"
         url = "/contact/"
         title = ""
-        weight = 6
+        weight = 7
 
     [languages.zh-cn.params]
       # 网站描述
