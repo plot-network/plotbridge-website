@@ -3,10 +3,10 @@
 
 
 ## Installing and setting up MetaMask
-Start by downloading MetaMask for Chrome, Brave, iOS, and Android.
+Start by downloading MetaMask for **Chrome**, **Brave**, **iOS,** and **Android**.
 
 - Next, create a wallet
-- Write down the backup seed phrase somewhere secure (preferably not on an Internet-connected device)
+- Write down **the backup seed** phrase somewhere secure (preferably not on an Internet-connected device)
 - Without this phrase, your funds can’t be recovered if your device is damaged or lost
 - Finally, confirm your seed phrase by following the on-screen instructions
 
@@ -19,7 +19,7 @@ You can quickly configure binance smart chain by visiting [__Binance Smart Chain
 
 <img src="/images/guideimg/autolink1.png" style="width:600px">
 
-click this button, MetaMask extension will pop up, and click Approve to give permission.
+click this button, MetaMask extension will pop up, and click **Approve** to give permission.
 
 <img src="/images/guideimg/autolink2.png" style="height:500px;width:600px">  
 
@@ -39,13 +39,13 @@ On the Settings page, click the Networks.
 Click Add Network in the top-right corner to manually add Binance Smart Chain Mainnet.  
 
 Network Name: Binance Smart Chain  
-New RPC URL: `https://bsc-dataseed.binance.org/`  
+**New RPC URL: `https://bsc-dataseed.binance.org/`  
 ChainID: 56  
 Symbol: BNB  
-Block Explorer URL: `https://bscscan.com` 
+Block Explorer URL: `https://bscscan.com`** 
 
 Once you Save the Network and return to the main view, you’ll notice two things: the network has automatically been set to the one you just entered, and the units are no longer denominated in ETH, but in BNB.
 
 For all recent announcements and updates, connect with us:
 
-[Website](https://plotbridge.onrender.com) | [Discord](https://discord.com/invite/xHC9fBfeVW) | [Telegram]( https://t.me/PlotBridge) | [Twitter]( https://twitter.com/plot_bridge)
+**[Website](https://plotbridge.onrender.com) | [Discord](https://discord.com/invite/xHC9fBfeVW) | [Telegram]( https://t.me/PlotBridge) | [Twitter]( https://twitter.com/plot_bridge)**

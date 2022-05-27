@@ -1,4 +1,4 @@
-#如何将 XCC 转换成币安智能链上的 WXCC
+# 如何将 XCC 转换成币安智能链上的 WXCC
 
 1. 推荐在 Chrome 浏览器上访问 PlotBridge。
 2. 运访问 PlotBridge 前，需要安装 MetaMask 钱包的 Chrome 插件，并在钱包注册一个账号。
