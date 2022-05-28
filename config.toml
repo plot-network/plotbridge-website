@@ -69,9 +69,9 @@ enableEmoji = true
         url = "/tokens/"
         weight = 5
       [[languages.en.menu.main]]
-        identifier = "active"
-        name = "Active"
-        url = "/active/"
+        identifier = "activity"
+        name = "activity"
+        url = "/activity/"
         weight = 6
       [[languages.en.menu.main]]
         identifier = "contact"
@@ -207,9 +207,9 @@ enableEmoji = true
         title = ""
         weight = 5
       [[languages.zh-cn.menu.main]]
-        identifier = "active"
+        identifier = "activity"
         name = "活动"
-        url = "/active/"
+        url = "/activity/"
         title = ""
         weight = 6
       [[languages.zh-cn.menu.main]]
