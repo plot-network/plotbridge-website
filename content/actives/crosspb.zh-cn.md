@@ -24,8 +24,6 @@
 
 **奖励资金来源：**
 
-XCC 是 chives 团队支持提供，我们在这里再一次表示衷心的感谢！PBP 是 PB 团队社区活动资金，我们感谢 PB 团队的社区组织者的支持和付出。
-
 ![win rewards](/images/activeimg/active1-zh.jpg)
 
 PlotBridge 的网址是：http://www.plotbridge.io
