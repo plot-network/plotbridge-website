@@ -2,7 +2,7 @@
 
 [PlotBridge](https://app.plotbridge.io/) May 27, 2022
 
-![corss to PlotBridge](/images/activeimg/corss.jpg)
+![corss to PlotBridge](/images/activeimg/cross.jpg)
 
 Deposit XCC into PlotBridge Rewards Event
 

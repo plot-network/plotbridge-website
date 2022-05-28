@@ -2,7 +2,7 @@
 
 [PlotBridge](https://app.plotbridge.io/) 2022.5.27
 
-![corss and reward](/images/activeimg/corss-zh.jpg)
+![corss and reward](/images/activeimg/cross-zh.jpg)
 
 ### 存 XCC 入 PlotBridge 奖励活动
 
