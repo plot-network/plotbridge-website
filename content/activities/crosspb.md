@@ -8,7 +8,7 @@ Deposit XCC into PlotBridge Rewards Event
 
 **Schedule:**
 
-A total of 16,800 XCCs and 168,000 PBPs are arranged as rewards for this event. The event is divided into 3 phases.
+A total of 16,800 XCC and 168,000 PBP are arranged as rewards for this event. The event is divided into 3 phases.
 
 -   The first phase of the event is scheduled to start at 1:00 GMT on May 31st and end at 1:00 GMT on June 6th.
 
