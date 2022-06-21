@@ -70,7 +70,7 @@ enableEmoji = true
         weight = 5
       [[languages.en.menu.main]]
         identifier = "activity"
-        name = "activity"
+        name = "Activity"
         url = "/activity/"
         weight = 6
       [[languages.en.menu.main]]
