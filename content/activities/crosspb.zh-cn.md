@@ -1,4 +1,4 @@
-# 存入 XCC 赢取奖励 Plotbridge
+# 存入 XCC 赢取奖励 PlotBridge
 
 [PlotBridge](https://app.plotbridge.io/) 2022.5.27
 
@@ -16,7 +16,7 @@
 
 **排名统计：**
 
-按照每期起始到结束时间内的存入 plotBridge 的 XCC（以铸造的 WXCC 数量为统计依据）合计总量为各账号的 XCC 入桥量排名（可以一次或者多次存入）。
+按照每期起始到结束时间内的存入 plotBridge 的　XCC　总金额（根据已存入的 WXCC 数量为统计依据），对每个账户进入 PlotBridge 的 XCC 总金额进行排名（可以一次或者多次存入）。
 
 **奖励等级：**
 
@@ -29,7 +29,7 @@
 
 **奖金分配：**
 
-奖金由 PB 团队直接转账到获奖钱包账户，在每期结束 PB 团队完成统计后，并在社区公布数据结果。
+奖金将由 PB 团队直接转账到获奖钱包账户，在每期结束 PB 团队完成统计后，会在社区公布数据结果。
 
 **奖励资金来源：**
 
@@ -40,4 +40,4 @@
 ![gain reward](/images/activeimg/cross1-zh.jpg)
 
 PlotBridge 的网址是：http://www.plotbridge.io
-（请原谅机器自动翻译）
+（机器自动翻译，请谅解）

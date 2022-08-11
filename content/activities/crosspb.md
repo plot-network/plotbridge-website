@@ -1,4 +1,4 @@
-# Deposit XCC into Plotbridge Rewards Event
+# Deposit XCC into PlotBridge Rewards Event
 
 [PlotBridge](https://app.plotbridge.io/) May 27, 2022
 
@@ -26,8 +26,7 @@ The rewards are divided into 4 levels: 1st, 2nd, 3rd, 4th to 10th:
 
 -   2000 XCC and 20000 PBP for the first place,
 -   1000 XCC and 10000 PBP for the second place,
--   1000 XCC and 10000 PBP for the 3rd place
--   500 XCC and 5000 PBP will be awarded for the first place,
+-   500 XCC and 5000 PBP will be awarded for the  3rd place,
 -   300 XCC and 3000 PBP will be awarded for the 4th to 10th place.
 
 **Prize distribution:**
