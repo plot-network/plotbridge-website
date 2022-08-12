@@ -43,7 +43,7 @@ XD[XCH Deposit] --> PB(PlotBridge) --> PM[WXCH Mint]
 
 #### Burn
 
-User may burn WXX tokens with the PB web app.
+User may burn WXX tokens with the PB web App.
 PB system keeps tracking the BSC chain. When a **burn** transaction is detected with enough confirmations (such as 10 confirmations), it will be stored and put into the withdraw queue.
 PB system keeps tracking the withdraw queue, and send XX coins back to the XX withdraw address bind in BSC.
 
@@ -61,7 +61,7 @@ We are planning to collect then into a single address. It may be better for the 
 
 WXX are minted only when XX deposit, and are burnt for XX withdrawal. This can ensure **NO** overdraft for WXX.
 
-For better safety, we completely separate web app and PB system. The only connection between them is the BSC blockchain network.
+For better safety, we completely separate web APP and PB system. The only connection between them is the BSC blockchain network.
 
 {{< mermaid >}}
 graph LR;

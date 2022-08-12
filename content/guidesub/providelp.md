@@ -6,11 +6,11 @@
 
  2. After entering the bridge page, you need to select an NFT (if not, please see "How to Convert XCC to WXCC on Binance Smart Chain") and then select a desired currency on the right, it will appear at the bottom of the page (with XCC  Example) “**Buy WXCC**”, “**Add WXCC-PBP Liquidity**”, “**WXCC Token Information**”, “**WXCC-PBP Trading Pair Information**” 4 option boxes.
 
-    After selecting “Add WXCC-PBP Liquidity”,  It will jump to the liquidity increase page of PancakSwap (you may need to click the link wallet in the upper right corner). There are two option boxes for PBP and WXCC. You need to fill in the amount of the currency to be paired in the 0.0 amount, as long as it does not exceed  Balance, an authorization confirmation button will appear below the option box (both currencies must be authorized for the first operation), and the wallet authorization will pop up. After all confirmations are completed, click the supply button and authorize in the wallet. After completion, the **voucher of LP token** will be in the wallet.
+    After selecting “Add WXCC-PBP Liquidity”,  It will jump to the liquidity increase page of PancakSwap (you may need to click the link wallet in the upper right corner). There are two option boxes for PBP and WXCC. You need to fill in the amount of the currency to be paired in the 0.0 amount, as long as it does not exceed  balance, an authorization confirmation button will appear below the option box (both currencies must be authorized for the first operation), and the wallet authorization will pop up. After all confirmations are completed, click the supply button and authorize in the wallet. After completion, the **voucher of LP token** will be in the wallet.
 
     
 
- 3. Go back to the PlotBridge-app webpage, click to the pledge page, click deposit in the "**Cake-LP (WXCC-PBP) Pool**", confirm the authorization in the pop-up window, click all on the quantity option or enter the amount you want to pledge,  Click Deposit and confirm, and the staking process is complete. If you stay here for a while, you may see the numbers behind the earned items increase, and these numbers are your liquidity rewards.
+ 3. Go back to the PlotBridge-app webpage, click to the pledge page, click deposit in the "**Cake-LP (WXCC-PBP) Pool**", confirm the authorization in the pop-up window, click all on the quantity option or enter the amount you want to pledge,  Click deposit and confirm, and the staking process is complete. If you stay here for a while, you may see the numbers behind the earned items increase, and these numbers are your liquidity rewards.
 
     
 
@@ -18,7 +18,7 @@
 
     
 
- 5. Add the entry of BNB-PBP trading pair liquidity On the trading page, click the expand arrow in the upper option box, click PBP, and select "Add PBP-BNB liquidity" below, refer to 2, 3, and complete.
+ 5. Add the entry of BNB-PBP trading pair liquidity on the trading page, click the expand arrow in the upper option box, click PBP, and select "Add PBP-BNB liquidity" below, refer to 2, 3, and complete.
 
     
 
@@ -26,4 +26,4 @@
 
     
 
- 7. Our staking rewards are additional rewards to PancakeSwap liquidity mining, and the income of liquidity mining itself is not calculated.  Therefore, **the actual overall rate of return will be higher than the general liquidity reward**.
+ 7. Our staking rewards are additional rewards to PancakeSwap liquidity mining, and the income of liquidity mining itself is not calculated.  Therefore, the actual overall rate of return will be higher than the general liquidity reward.

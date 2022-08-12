@@ -11,3 +11,5 @@
 9. On the middle of the page, shows the bridge address which can receive tokens (e.g., Chives). Each NFT has a unique bridge address. You can send tokens from your wallet or your exchange account.
 10. Click the address, it will be kept in the system clipboard and used as a receiving address for you to send coins.
 11. The PlotBridge will convert received chives tokens(xcc) coins to BEP20 token WXCC and save them in your MetaMask wallet. You may swap the tokens to other tokens (e.g., BNB) in swap panel.
+12. PlotBridge will charge a small amount of XCC as a transaction fee.
+13. You can enter the number of XCC's  in the input field, and the page displays the number of tokens WXCC's that will eventually be exchanged and sent to your MetaMask wallet.

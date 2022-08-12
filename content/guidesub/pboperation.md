@@ -6,7 +6,7 @@
 
 #
 
-2.  The upper option box is **the start**, click the drop-down arrow, **BNB, PBP, USDT, BUSD, WXCH, WXCC** (will increase at any time) will appear from top to bottom, click on the WXCC to be sold (or other currencies to be used) , and fill in the quantity to be sold in the Quantity box.
+2.  The upper option box is **the start**, click the drop-down arrow, **BNB, PBP, USDT, BUSD, WXCH, WXCC** (will increase at any time) will appear from top to bottom, click on the WXCC to be sold (or other currencies to be used) , and fill in the quantity to be sold in the quantity box.
 
 #
 
@@ -18,7 +18,7 @@
 
 #
 
-5.  Click on the transaction, confirm the transaction on the pop-up wallet, the transaction will then be completed, and you have **purchased or sold** WXCC (or other currencies).
+5.  Click on the transaction, **confirm the transaction** on the pop-up wallet, the transaction will then be completed, and you have **purchased** or **sold** WXCC (or other currencies).
 
 #
 
@@ -28,6 +28,6 @@
 
 #
 
-7.  The transaction function of our PB is just **a layer of encapsulation of PancakeSwap**. The transaction is completed by the **PancakeSwap contract**. The use of the transaction is similar to that of PancakeSwap, but it solves the problem that PancakeSwap cannot directly trade <B> WCoin—>BNB/BUSD/USDT</B>.
+7.  The transaction function of our PB is just a layer of encapsulation of **PancakeSwap**. The transaction is completed by the **PancakeSwap contract**. The use of the transaction is similar to that of PancakeSwap, but it solves the problem that PancakeSwap cannot directly trade <B> WCoin—>BNB/BUSD/USDT</B>.
 
-    For details, please refer to the PancakeSwap documentation, **[https://docs.pancakeswap.finance/v/chinese/products/pancakeswap-exchange](https://docs.pancakeswap.finance/v/chinese/products/pancakeswap-exchange)**.
+    For details, please refer to the **PancakeSwap** documentation, **[https://docs.pancakeswap.finance/v/chinese/products/pancakeswap-exchange](https://docs.pancakeswap.finance/v/chinese/products/pancakeswap-exchange)**.

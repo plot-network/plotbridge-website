@@ -15,7 +15,7 @@ And voila! Your wallet is ready to send, store, and receive tokens.
 ## Fast configuring the wallet
 You might notice that we’re still at the Ethereum main network.This won’t work with Binance Smart Chain DApps. At worst, __you could lose funds by sending them to addresses you can’t actually use.__ 
 
-You can quickly configure binance smart chain by visiting [__Binance Smart Chain Explorer(bscscan.com)__](https://bscscan.com/),After accessing the homepage of [__Binance Smart Chain Explorer(bscscan.com)__](https://bscscan.com/), you will see a button with MetaMask icon and "Add BSC Network" on the bottom right of the page.
+You can quickly configure binance smart chain by visiting [__Binance Smart Chain Explorer(bscscan.com)__](https://bscscan.com/),After accessing the homepage of [__Binance Smart Chain Explorer(bscscan.com)__](https://bscscan.com/), you will see a button with MetaMask icon and **"Add BSC Network"** on the bottom right of the page.
 
 <img src="/images/guideimg/autolink1.png" style="width:600px">
 
