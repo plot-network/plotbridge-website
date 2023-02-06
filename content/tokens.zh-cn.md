@@ -5,9 +5,9 @@ description = "代币和交易对信息"
 
 ## 基础知识
 
-- PlotBridge 简称为 PB 。
-- 由 PB 发行的 BEP20 代币(如 WXCC/WXCH )简称为 WXX 。
-- 区块连网络和 WXX 所对应的币简称为 XX 。
+-   PlotBridge 简称为 PB 。
+-   由 PB 发行的 BEP20 代币(如 WXCC/WXCH )简称为 WXX 。
+-   区块连网络和 WXX 所对应的币简称为 XX 。
 
 #### 问题
 
@@ -83,10 +83,12 @@ App[PlotBridge App Web Server] <--> BSC([BSC Network]) <--> PB[PlotBridge App an
 
 所有代币均在币安智能链（BSC）中发行。
 
-| 名称                                  | 标识 | 代币标识                       | 合约地址                                   | 交易对                                                                                       |
-| ------------------------------------- | :--- | ------------------------------ | ------------------------------------------ | -------------------------------------------------------------------------------------------- |
-| [PBP](https://www.plotbridge.io)      | PBP  | ![PBP](/images/pbp.png)PBP     | 0x217634d01809d7B9C6348D70A95AE7f5E5179de3 | [BNB/PBP](https://pancakeswap.finance/info/pool/0xb8d7e1982d01a613708b3235a5781a734f63d082)  |
-| [Chia](https://www.chia.net)          | XCH  | ![奇亚](/images/wxch.png)WXCH  | 0xEc02B1b904a4e925F67fA8Bc6c5d428266F5C1a5 | [WXCH/PBP](https://pancakeswap.finance/info/pool/0x10d2a3f0f7485fcee84407bbd4272918fe864a55) |
-| [Chives](https://www.chivescoin.org/) | XCC  | ![韭菜](/images/wxcc.png) WXCC | 0x1aDCC92C322c21e387e6112bf162858AF208ff3a | [WXCC/PBP](https://pancakeswap.finance/info/pool/0xa9d19fe91bbb3d9f91ca313f71aa58101015014b) |
+| 名称                                 | 标识 | 代币标识                          | 合约地址                                   | 交易对                                                                                        |
+| ------------------------------------ | :--- | --------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------- |
+| [PBP](https://www.plotbridge.io)     | PBP  | ![PBP](/images/pbp.png)PBP        | 0x217634d01809d7B9C6348D70A95AE7f5E5179de3 | [BNB/PBP](https://pancakeswap.finance/info/pairs/0xb8d7e1982d01a613708b3235a5781a734f63d082)  |
+| [Chia](https://www.chia.net)         | XCH  | ![奇亚](/images/wxch.png)WXCH     | 0xEc02B1b904a4e925F67fA8Bc6c5d428266F5C1a5 | [WXCH/PBP](https://pancakeswap.finance/info/pairs/0x10d2a3f0f7485fcee84407bbd4272918fe864a55) |
+| [HDDcoin](https://www.hddcoin.org)   | HDD  | ![HDDcoin](/images/whdd.png) WHDD | 0xb558F597076babcC66250714F93A7b869Db26dB5 | [WHDD/PBP](https://pancakeswap.finance/info/pairs/0x005b461cD46E2A54e0FDF62b39f5aDf8E28dED7a) |
+| [Chives](https://www.chivescoin.org) | XCC  | ![韭菜](/images/wxcc.png) WXCC    | 0x1aDCC92C322c21e387e6112bf162858AF208ff3a | [WXCC/PBP](https://pancakeswap.finance/info/pairs/0xA9d19fE91Bbb3D9F91cA313F71aA58101015014b) |
+| [Flax](https://flaxnetwork.org)      | XFX  | ![Flax](/images/wxfx.png) WXFX    | 0x006294e75C3CE65910Cf6fa0EA57Dcf058dc30b0 | [WXFX/PBP](https://pancakeswap.finance/info/pairs/0x36d150548084371c8C294827433d13dC0788D3dE) |
 
 将来我们会增加更多的代币。欢迎提出建议。
